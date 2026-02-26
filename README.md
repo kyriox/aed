@@ -8,7 +8,7 @@ El curso sigue una secuencia lógica para el análisis de datos, partiendo desde
 
 ### Módulo 0: Fundamentos de Python para Análisis
 * **00a_intro_python.ipynb**: Introducción a la sintaxis y lógica básica de Python.
-* **00b_Funciones_y_Librerías.ipynb**: Creación de funciones y manejo de librerías esenciales del ecosistema científico[cite: 6].
+* **00b_Funciones_y_Librerías.ipynb**: Creación de funciones y manejo de librerías esenciales del ecosistema científico.
 * **00c_ConjuntosYDiccionarios.ipynb**: Uso de estructuras de datos avanzadas para manipulación eficiente de información.
 
 ### Módulo 2: Estadística y Proyección
@@ -24,7 +24,7 @@ El curso sigue una secuencia lógica para el análisis de datos, partiendo desde
 
 ## 🛠️ Requisitos
 
-Para ejecutar los cuadernos, se requiere un entorno de Python con las siguientes librerías[cite: 2, 5, 6]:
+Para ejecutar los cuadernos, se requiere un entorno de Python con las siguientes librerías:
 * `numpy`
 * `pandas`
 * `matplotlib`
