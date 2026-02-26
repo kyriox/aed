@@ -45,7 +45,7 @@ Si utilizas estas notas en tu investigación o labor docente, por favor utiliza 
 @misc{analisis_exploratorio_2022,
   author = {Jose Ortiz-Bejar},
   title = {Notebooks: Análisis exploratorio en datos},
-  year = {2026},
+  year = {2022},
   publisher = {GitHub},
   journal = {GitHub Repository},
   howpublished = {\url{[https://github.com/kyriox/aed](https://github.com/kyriox/aed)}}
